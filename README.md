@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YakshitPoojary
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python
 - 📫 How to reach me yakshitpoojary2004@gmail.com
 
