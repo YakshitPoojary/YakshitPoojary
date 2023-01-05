@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YakshitPoojary
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Front End
 - 📫 How to reach me yakshitpoojary2004@gmail.com
 
 <!---
