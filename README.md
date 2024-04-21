@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Finance Application**
 
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 My Portfolio Website - [https://yakshit-poojary.vercel.app/](https://yakshit-poojary.vercel.app/)
 
