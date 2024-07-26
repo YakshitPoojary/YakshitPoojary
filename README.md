@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yakshit Poojary</h1>
 <h3 align="center">Hello there! I'm a Third-Year student pursuing Computer Science Engineering at K.J. Somaiya College of Engineering. I have a keen interest in Web Development and recently delved into the world of Machine Learning and App Development.</h3>
 
-- 🔭 I’m currently working on **A Finance Application**
+- 🔭 I’m currently working on **Live Code Editor**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 My Portfolio Website - [https://yakshit-poojary.vercel.app/](https://yakshit-poojary.vercel.app/)
 
 - 📫 How to reach me **yakshiitpoojary2004@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1S97M2DdLP3OaFu0RXS9etud5sRBlML1B/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1lVNFbvDH3rrgVgxExFDIV9q_5dNpkAau/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
