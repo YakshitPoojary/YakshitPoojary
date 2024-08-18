@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yakshit Poojary</h1>
 <h3 align="center">Hello there! I'm a Third-Year student pursuing Computer Science Engineering at K.J. Somaiya College of Engineering. I have a keen interest in Web Development and recently delved into the world of Machine Learning and App Development.</h3>
 
-- 🔭 I’m currently working on **Live Code Editor**
+- 🔭 I’m currently working on **Flutter App**
 
 - 🌱 I’m currently learning **Generative AI**
 
