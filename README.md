@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 My Portfolio Website - [https://yakshit-poojary.vercel.app/](https://yakshit-poojary.vercel.app/)
-
 - 📫 How to reach me **yakshiitpoojary2004@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1lVNFbvDH3rrgVgxExFDIV9q_5dNpkAau/view?usp=sharing)
